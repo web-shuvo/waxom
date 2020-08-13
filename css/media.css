@@ -1,0 +1,199 @@
+/*=== Extra Small Device ===*/
+@media (max-width: 575.98px) {
+    .navbar {
+        padding: 0px 25px;
+    }
+
+    .navbar-toggler i {
+        font-size: 25px;
+        color: #fff;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+    }
+    
+    .navbar-nav {
+	background: #998675;
+	padding: 15px 0;
+        text-align: center;
+}
+    .nav-item {
+        padding: 5px 0;
+    }
+    
+    #banner {
+	padding-top: 115px;
+	padding-bottom: 80px;
+    }
+    
+    #feature {
+	padding-top: 45px;
+	padding-bottom: 50px;
+    }
+    .feature-text {
+	margin-bottom: 30px;
+    }
+    
+    .feature-text::before {
+	bottom: -15px;
+}
+    
+    #feature {
+	padding-top: 45px;
+	padding-bottom: 45px;
+    }
+    
+    #ideas {
+	padding-top: 30px;
+    }
+    
+    .ideas-text p {
+	padding: 0 40px;
+    }
+    
+    #purchase {
+	padding-top: 30px;
+}
+    
+    .video-item p {
+	padding: 0 30px;
+}
+    
+    .purchase-text p {
+	margin-bottom: 15px;
+}
+    
+    .filter-text p {
+	padding: 0 10px;
+}
+    
+    #filter {
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+    
+    .filter-btn button {
+	margin: 5px 5px;
+    }
+    
+    #present {
+	padding-top: 90px;
+	padding-bottom: 60px;
+    }
+    
+    #mobile {
+	padding-top: 70px;
+    }
+    
+    .mobile-text h6 {
+	font-size: 14px;
+	padding: 0 15px;
+}
+    
+    .mobile-text {
+	padding-top: 30px;
+	text-align: center;
+    padding-bottom: 25px;    
+}
+    
+    .mobile-text h6 {
+	padding: 0 15px;
+}
+    
+    
+    .mobile-ser {
+	padding-left: 50px;
+	padding-right: 20px;
+}
+    
+    .ser-dot {
+	left: 15px;
+}
+    
+    #count {
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+    
+    .c-item::after {
+	bottom: -5px;
+}
+    
+    .p-t-text p {
+	padding: 0 30px;
+}
+    #posts {
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+    
+    #brand {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+    
+    #foot-one {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    
+    .fa-chevron-left {
+	left: 40.5%;
+}
+    
+    .fa-chevron-right {
+	right: 40.5%;
+}
+    
+    
+
+}
+
+
+
+
+
+/*== Small devices ==*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    
+    
+    
+    
+    
+}
+
+
+/*==== Medium devices ====*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+/*==== Large devices =====*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
